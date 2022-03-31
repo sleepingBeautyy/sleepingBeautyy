@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @sleepingBeautyy
-- 🌱 I’m currently learning ...Computer Science
-- 💞️ I’m looking to collaborate on ...my final year project
 - 📫 How to reach me ...harnekarumama110@gmail.com
 
 <!---
