@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Umama Abdul-hamid Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Zanzibar</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a dedicated frontend developer and UI/UX designer based in Zanzibar. Currently, I'm pursuing a Bachelor's degree in Computer Science at the esteemed State University of Zanzibar.</h3>
 
-- 🌱 I’m currently learning **Next.js, React**
+- 🌱 Currently exploring Figma and Flutter to enhance my skills.**
 
-- 💬 Ask me about **Angular Javascript**
+- 💬 Feel free to ask me about Angular, Svelte, Figma, Web Designing, React and other JS frameworks.**
 
-- 📫 How to reach me **harnekarumama110@gmail.com**
+- 📫 I'm passionate about creating seamless user experiences and crafting elegant frontend solutions. If you're interested in collaboration or have any inquiries, feel free to reach out via **harnekarumama110@gmail.com**. Let's build something amazing together!  
 
-- ⚡ Fun fact **I'm a ready good Presenter**
+- ⚡ Fun fact: I'm not just a developer; I'm also a really good presenter! **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
